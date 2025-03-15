@@ -10,4 +10,4 @@
 - 📧 **Email**: [oke08034@snu.ac.kr](mailto:oke08034@snu.ac.kr)
 - 🐙 **GitHub**: [cho58](https://github.com/cho58)
 
-[프로필 사진](img_cho58/introduction_img1.jpg)
+📸[프로필 사진](img_cho58/introduction_img1.jpg)
